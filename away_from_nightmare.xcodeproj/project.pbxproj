@@ -404,6 +404,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "away-from-nightmare-Info.plist";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "需要麦克风权限收集梦话";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "需要语音识别权限识别梦话";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -431,6 +434,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "away-from-nightmare-Info.plist";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "需要麦克风权限收集梦话";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "需要语音识别权限识别梦话";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
