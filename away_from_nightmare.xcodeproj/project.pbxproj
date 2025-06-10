@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E576C6D32DF8052C00C28A74 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E576C6D22DF8052500C28A74 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		E576C6B22DF7FD0300C28A74 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		E576C6A42DF7FD0200C28A74 /* away_from_nightmare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = away_from_nightmare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E576C6B12DF7FD0300C28A74 /* away_from_nightmareTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = away_from_nightmareTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E576C6BB2DF7FD0300C28A74 /* away_from_nightmareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = away_from_nightmareUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E576C6D22DF8052500C28A74 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				E576C6B42DF7FD0300C28A74 /* away_from_nightmareTests */,
 				E576C6BE2DF7FD0300C28A74 /* away_from_nightmareUITests */,
 				E576C6A52DF7FD0200C28A74 /* Products */,
+				E576C6D22DF8052500C28A74 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E576C6D32DF8052C00C28A74 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
